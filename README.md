@@ -8,6 +8,7 @@
 **Feature Engineering:** Created new features to improve model performance.
 **Model Selection and Training:** Trained an XGBoost model on the dataset.
 **Evaluation:** Evaluated the model's performance using appropriate metrics (e.g., RMSE, MAE).
+
 **[Link :](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/house_price_prediction.ipynb)**
 
 ## Project 2: Sentiment Analysis
@@ -16,6 +17,7 @@
 **Feature Extraction:** Used TF-IDF to convert text into numerical features.
 **Model Training:** Trained Naive Bayes and Logistic Regression models.
 **Evaluation:** Evaluated the models' performance using accuracy, precision, recall, and F1-score.
+
 **[Link :](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/sentiment_analysis.ipynb)**
 
 ## Project 3: Titanic Classification
@@ -24,4 +26,5 @@
 **Feature Engineering:** Encoded the categorical features.
 **Model Training:** Trained multiple models (e.g., Random Forest, Logistic Regression) and compared their performance.
 **Evaluation:** Evaluated the models' performance using accuracy.
+
 **[Link :](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/titanic.ipynb)**
