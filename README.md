@@ -50,6 +50,6 @@
 
 **Model Training:** Trained multiple models (e.g., Kmeans and hierarchical clustering with scaling features and without scaling) and compared their results.
 
-**Evaluation:** Evaluated the models' performance using contour plot and checked centroid and dscision boundaries of clusters.
+**Evaluation:** Evaluated the models' performance using contour plot and checked centroid and decision boundaries of clusters.
 
 **[Link :](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/customers_segmentation_clustering.ipynb)**
