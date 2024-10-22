@@ -53,3 +53,16 @@
 **Evaluation:** Evaluated the models' performance using contour plot and checked centroid and decision boundaries of clusters.
 
 **[Link :](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/customers_segmentation_clustering.ipynb)**
+
+## Project 5: Credit Card Fraud Detection
+**Objective:** To classify transactions into different fraud or not.
+
+**Data Exploration:** Dataset was numerical and with no details about columns, only amount and time with class were there to deal with.
+
+**Feature Engineering:** Columns were on different scale with high imbalance class used scaling techniques to deal with imbalance class.
+
+**Model Training:** Trained models on different type of scaling techniques to check model's performance.
+
+**Evaluation:** Evaluated the models' performance using confusion matrix and compared performance of different models with different sampling techniques.
+
+**[Link :](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/creditcard.ipynb)**
