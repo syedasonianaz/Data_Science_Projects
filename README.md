@@ -20,7 +20,7 @@ The goal of this project was to develop a predictive model to estimate house pri
 - 📊 **Evaluation:**  
   * Assessed model performance using RMSE and MAE to evaluate prediction accuracy.  
 
-**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/house_price_prediction.ipynb)**
+**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/house_price_prediction/house_price_prediction.ipynb)**
 
 ---
 
@@ -40,7 +40,7 @@ This project focused on building a text classification system to categorize user
 - 📊 **Evaluation:**  
   * Evaluated models using accuracy, precision, recall, and F1-score on both datasets: TF-IDF and Count Vector.  
 
-**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/sentiment_analysis.ipynb)**
+**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/sentiment_analysis/sentiment_analysis.ipynb)**
 
 ---
 
@@ -60,7 +60,7 @@ The objective was to predict the survival of passengers aboard the Titanic using
 - 📊 **Evaluation:**  
   * Measured model performance using accuracy.
 
-**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/titanic.ipynb)**
+**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/titanic_classification/titanic.ipynb)**
 
 ---
 
@@ -83,7 +83,7 @@ This project aimed to segment customers into distinct groups based on purchasing
   * Visualized clusters using contour plots.  
   * Analyzed centroids to interpret customer group characteristics.  
 
-**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/customers_segmentation_clustering.ipynb)**
+**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/customers_segmentation/customers_segmentation_clustering.ipynb)**
 
 ---
 
@@ -104,7 +104,7 @@ This project focused on detecting fraudulent credit card transactions using mach
 - 📊 **Evaluation:**  
   * Assessed models using confusion matrices, precision, recall, and F1-scores.  
 
-**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/creditcard.ipynb)**
+**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/creditcardfraud/creditcard.ipynb)**
 
 ---
 
@@ -128,7 +128,7 @@ This project aimed to predict whether customers are likely to churn based on the
 - 🖥️ **Deployment:**  
   * Developed an interactive dashboard using Streamlit for visualizing predictions and insights.  
 
-**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/customer_churn.ipynb)**  
+**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/customer_churn/customer_churn.ipynb)**  
 **🔗 [Dashboard Link](https://customerchurndashboard.streamlit.app/)**
 
 ---
