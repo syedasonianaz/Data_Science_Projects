@@ -66,3 +66,17 @@
 **Evaluation:** Evaluated the models' performance using confusion matrix and compared performance of different models with different sampling techniques.
 
 **[Link :](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/creditcard.ipynb)**
+
+## Project 6: Customer Churn Prediction
+**Objective:** To classify based on a data of person if they gonna churn or not
+
+**Data Exploration:** Dataset was mostly categorical and had very few columns in numerical values.
+
+**Feature Engineering:** Columns had wrong datatype which needed to be fixed and scaled. Churn had imbalance class so had to perform different imbalance techniques to make model work better like random under stamping, random over sampling and Smote.
+
+**Model Training:** Trained different models on different type of imbalance fixing techniques to check model's performance.
+
+**Evaluation:** Evaluated the models' performance using confusion matrix and compared performance of different models with different sampling techniques. Then did hyperparameter tuning for best performing model with best performing sampling technique.
+
+**Dashboard:** Dashboard is created and model is deployed using streamlit.
+**[Link :](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/customer_churn.ipynb)**
