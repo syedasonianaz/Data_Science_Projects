@@ -14,4 +14,4 @@ The goal of this project was to develop a predictive model to estimate house pri
 - 📊 **Evaluation:**  
   * Assessed model performance using RMSE and MAE to evaluate prediction accuracy.  
 
-**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/house_price_prediction.ipynb)**
+**🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/creditcardfraud/creditcard.ipynb)**
