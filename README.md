@@ -129,7 +129,7 @@ This project aimed to predict whether customers are likely to churn based on the
   * Developed an interactive dashboard using Streamlit for visualizing predictions and insights.  
 
 **🔗 [Notebook Link](https://github.com/syedasonianaz/Data_Science_Projects/blob/main/customer_churn/customer_churn.ipynb)**  
-**🔗 [Dashboard Link](https://customerchurndashboard.streamlit.app/)**
+**🔗 [Dashboard Link](https://churnpredictionapp.streamlit.app/)**
 
 ---
 
